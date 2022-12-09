@@ -73,6 +73,23 @@ p{
         left: 0;
         width: 100%;
     }
+    .footer_col1{
+        padding-right: 200px;
+    }
+    .footer_col2{
+        margin-right: 100px;
+    }
+
+    .logo{
+        width: 20px;
+        height: 80px;
+    }
+    .logo h1{
+        font-size: 16px;
+        word-wrap: break-all;
+        height: 80px;
+        width: 10px;    
+    }
 
 }
 
@@ -128,7 +145,7 @@ p{
 
     flex-basis: 25%;
     padding: 10px;
-    min-width: 200px;
+    min-width: 250px;
     margin-bottom: 50px;
     text-align: center;
     transition: 0.5s;
@@ -356,7 +373,7 @@ table th{
 .col-product{
     flex-basis: 25%;
     padding: 10px;
-    min-width: 200px;
+    min-width: 250px;
     margin-bottom: 50px;
     text-align: center;
     transition: 0.5s;
